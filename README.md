@@ -1,6 +1,3 @@
-<img src="./akshay-profile-pic.png" width="140" align="left" />
-
-
 # Akshay R K
 
 ### Senior Full Stack Engineer | Python · AWS · Event-Driven Systems · AI / RAG
